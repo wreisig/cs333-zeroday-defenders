@@ -1,9 +1,9 @@
 # cs333-packetLab
 
 ## Team Members
-Will Reisig
-Mackenzie Wright
-Emily
+-Will Reisig
+-Mackenzie Wright
+-Emily
 
 ## Quick Start
 Install uv
