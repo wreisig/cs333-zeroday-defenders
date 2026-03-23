@@ -13,7 +13,7 @@ Run "uv init"
 Run "uv run main.py"
 
 ## Network Packet Structure
-IPv4 packets operate at the internet layer contain a header and the payload, which is the data. The header contains relevant information
+IPv4 packets contain a header and the payload, which is the data. The header contains relevant information
 such as the source and destination IP addresses.
 
 ### Sources
