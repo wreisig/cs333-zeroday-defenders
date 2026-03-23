@@ -5,9 +5,15 @@
 This project will be using Python to create or modify packet headers.
 
 ## Team Members
-Will Reisig, Mackenzie Wright, Emily
+Will Reisig, Mackenzie Wright, Emily Newton
 
 ## Quick Start
 Install uv
 Run "uv init"
 Run "uv run main.py"
+
+## Network Packet Structure
+
+### Sources
+
+
